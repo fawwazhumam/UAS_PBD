@@ -1,10 +1,10 @@
 # UAS_PBD 📂
-<h1>**Rancangan Database Cafe**</h1>
+<h1>Rancangan Database Cafe</h1>
 
-Dosen pengampu:
+Dosen pengampu:<br>
 Hendri Kurniawan Prakosa, S.Kom., M.Cs
 <div>
- **Disusun oleh:**<br>
+<h4>Disusun oleh:</h4><br>
 Wisnu Sasongko			22.11.5152<br>
 Muh. Afiq Ma’mun			22.11.5163<br>
 Nadia Silvia Sari			22.11.5167<br>
