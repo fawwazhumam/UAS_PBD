@@ -4,7 +4,7 @@
 Dosen pengampu:<br>
 Hendri Kurniawan Prakosa, S.Kom., M.Cs
 <div>
-<h4>Disusun oleh:</h4><br>
+<h4>Disusun oleh:</h4>
 Wisnu Sasongko			22.11.5152<br>
 Muh. Afiq Ma’mun			22.11.5163<br>
 Nadia Silvia Sari			22.11.5167<br>
